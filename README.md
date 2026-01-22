@@ -1,4 +1,4 @@
-<h1 align="center">Awesome-Agent-Memory</h2>
+<h1 align="center">Awesome-Agent-Memory</h1>
 
 
 
@@ -50,7 +50,7 @@ We categorize foundation agent memory along three orthogonal perspectives in Fig
 - **Internal memory**: information internalized into model states or parameters.
 
 ### 2) Memory Cognitive Mechanism (How Memory Functions)
-- **Sensory memory**: captures high-frequency, immediate or time-sensative signals from recent inputs for rapid perception and filtering.
+- **Sensory memory**: captures high-frequency, immediate or time-sensitive signals from recent inputs for rapid perception and filtering.
 - **Working memory**: maintains short-term, task-relevant variables (goals, intermediate states, tool results) to support ongoing reasoning and action.
 - **Episodic memory**: stores time-series interaction traces and experiences for later recall in similar situations.
 - **Semantic memory**: abstracts stable facts and concepts from experiences/knowledge sources to enable generalization beyond specific episodes.
@@ -61,11 +61,11 @@ We categorize foundation agent memory along three orthogonal perspectives in Fig
 - **User-centric memory**: persistent user facts, preferences, and interaction history for personalization.
 - **Agent-centric memory**: the agent’s own experience/trajectories/skills for task performance and self-improvement. 
 
-Mememory operation and management, learning policy, scalability, evaluation please refer to Section 4~7 in our survey.
+For memory operations & management, learning policies, scalability, and evaluation, please refer to Sections 4–7 of our survey.
 
 ## 🧑‍💻 Applications
 
-Foundation agent memory is a key component for **long-horizon performance and personalization** across a wide range of real-world domains, including **education**, **scientific research**, **gaming & simulation**, **robotics**, **dialog systems**, **healthcare**, **workflow automation**, **software engineering**, **online streaming & recommendation**, **information search**, **finance & accounting**, and **legal & consulting**. In practice, these settings often require agents to accumulate experiences, distill reusable skills, and maintain coherent histories over time. Please refer to Application in out survey for more details.
+Foundation agent memory is a key component for **long-horizon performance and personalization** across a wide range of real-world domains, including **education**, **scientific research**, **gaming & simulation**, **robotics**, **dialog systems**, **healthcare**, **workflow automation**, **software engineering**, **online streaming & recommendation**, **information search**, **finance & accounting**, and **legal & consulting**. In practice, these settings often require agents to accumulate experiences, distill reusable skills, and maintain coherent histories over time. Please refer to application in out survey for more details.
 
 <p align="center">
   <img src="img/application.png" width="800" />
@@ -76,7 +76,7 @@ Foundation agent memory is a key component for **long-horizon performance and pe
 </p>
 
 ## 📑 Paper List
-We curate and organize representative papers on foundation-agent memory using the taxonomy in the survey (Substrate, Cognitive Mechanism, and Subject). Below is a structured list to help you quickly navigate the design space.
+We curate and organize representative papers on foundation agent memory using the taxonomy in the survey (Substrate, Cognitive Mechanism, and Subject). Below is a structured list to help you quickly navigate the design space.
 
 
 - **2025-12-16** [arxiv 2025] [Astraea: A State-Aware Scheduling Engine for LLM-Powered
