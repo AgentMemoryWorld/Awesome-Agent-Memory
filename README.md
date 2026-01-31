@@ -3,10 +3,11 @@
 
 
 ![](https://img.shields.io/badge/Status-Actively%20Maintained-1f6feb?style=for-the-badge)
+<!--
 [![](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/XXXX.XXXXX)
 [![](https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AgentMemoryWorld)
 ![](https://img.shields.io/github/last-commit/AgentMemoryWorld/Awesome-Agent-Memory?style=for-the-badge)
-
+-->
 
 <h3 align="center">Rethinking Memory Mechanisms of Foundation Agents in the Second Half</h3>
 
