@@ -1,11 +1,12 @@
 <h1 align="center">Awesome-Agent-Memory</h1>
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2602.06052-b31b1b.svg?style=flat&logo=arxiv)](https://arxiv.org/abs/2602.06052)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-FFD21E?style=flat)](https://huggingface.co/papers/2602.06052)
 [![Last Commit](https://img.shields.io/github/last-commit/AgentMemoryWorld/Awesome-Agent-Memory?style=flat&color=blue)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
 ![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg?style=flat)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=flat)
-
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Search-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=Rethinking+Memory+Mechanisms+of+Foundation+Agents+in+the+Second+Half%3A+A+Survey&btnG=)
 
 <h3 align="center">Rethinking Memory Mechanisms of Foundation Agents in the Second Half</h3>
 
