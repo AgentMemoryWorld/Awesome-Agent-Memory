@@ -7,7 +7,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg?style=flat)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=Rethinking+Memory+Mechanisms+of+Foundation+Agents+in+the+Second+Half%3A+A+Survey&btnG=)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
-<h3 align="center">Rethinking Memory Mechanisms of Foundation Agents in the Second Half</h3>
+<h3 align="center">Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey</h3>
 
 
 <p align="center">
@@ -18,7 +18,9 @@
 
 
 ## 🗞️ News
-- ✨ **2026-01-14** — Initialized Repository; added contents and figures.
+
+- 🎉 **2026-02-09** — Our paper is now available on arXiv! Check it out: [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052)
+- 🚀 **2026-01-14** — Repository initialized with paper list, taxonomy figures, and full contents.
 
 ## 📌 Introduction
 As AI enters the **second half,** the core challenge shifts from chasing benchmark gains to delivering real utility in long-horizon, dynamic, and user-dependent environments—where agents face **context explosion** and must continuously accumulate, manage, and selectively reuse information across extended interactions.
