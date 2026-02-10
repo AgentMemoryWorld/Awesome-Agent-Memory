@@ -19,7 +19,7 @@
 
 ## 🗞️ News
 
-- 🎉 **2026-02-09** — Our paper is now available on arXiv! Check it out: [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052)
+- 🎉 **2026-02-09** — Our paper is now available on arXiv! Check it out: [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052).
 - 🚀 **2026-01-14** — Repository initialized with paper list, taxonomy figures, and full contents.
 
 ## 📌 Introduction
@@ -27,9 +27,7 @@ As AI enters the **second half,** the core challenge shifts from chasing benchma
 
 This repository accompanies the survey *Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey*. The survey is based on a systematic literature collection and curates **218 key articles** published between **2023 Q1 and 2025 Q4**, and organizes foundation-agent memory via a unified taxonomy along three core design dimensions: **memory substrates**, **cognitive mechanisms**, and **memory subjects**. From a system perspective, it further analyzes memory operations in **single-agent and multi-agent** settings, highlights the growing role of **learning memory policies**, discusses **scaling** with context length and environment complexity, reviews **evaluation metrics and benchmarks**, and outlines six open challenges to guide next generation memory systems design.
 
-<p style="color:#2ea44f;">
-  <b>We will continuously update this repository with newly released papers and resources. Contributions and open new issues are highly welcome.</b>
-</p>
+> 💡 **We will continuously update this repository with newly released papers and resources. Contributions and open new issues are highly welcome.**
 
 
 ## 🗂️ Taxonomy
