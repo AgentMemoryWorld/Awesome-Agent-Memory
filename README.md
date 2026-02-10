@@ -1,13 +1,11 @@
 <h1 align="center">Awesome-Agent-Memory</h1>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.06052-b31b1b.svg?style=flat&logo=arxiv)](https://arxiv.org/abs/2602.06052)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-FFD21E?style=flat)](https://huggingface.co/papers/2602.06052)
+[![Last Commit](https://img.shields.io/github/last-commit/AgentMemoryWorld/Awesome-Agent-Memory?style=flat&color=blue)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
+![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg?style=flat)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=flat)
 
-
-![](https://img.shields.io/badge/Status-Actively%20Maintained-1f6feb?style=for-the-badge)
-<!--
-[![](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/XXXX.XXXXX)
-[![](https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AgentMemoryWorld)
-![](https://img.shields.io/github/last-commit/AgentMemoryWorld/Awesome-Agent-Memory?style=for-the-badge)
--->
 
 <h3 align="center">Rethinking Memory Mechanisms of Foundation Agents in the Second Half</h3>
 
