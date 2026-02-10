@@ -6,7 +6,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/AgentMemoryWorld/Awesome-Agent-Memory?style=flat&color=blue)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
 ![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg?style=flat)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=Rethinking+Memory+Mechanisms+of+Foundation+Agents+in+the+Second+Half%3A+A+Survey&btnG=)
-
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
 <h3 align="center">Rethinking Memory Mechanisms of Foundation Agents in the Second Half</h3>
 
 
