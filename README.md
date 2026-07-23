@@ -80,37 +80,67 @@ We curate and organize representative papers on foundation agent memory using th
 
 ### 📊 Statistics
 
-**1,224 papers** curated, spanning **2021-07 → 2026-07**.
+<p align="center">
+  <img alt="Total" src="https://img.shields.io/badge/Total-1%2C224_papers-1f6feb?style=for-the-badge&logo=bookstack&logoColor=white">
+  <img alt="Span" src="https://img.shields.io/badge/Span-2021.07_→_2026.07-6e7681?style=for-the-badge">
+  <img alt="Tagged" src="https://img.shields.io/badge/Tagged-1%2C205-2ea043?style=for-the-badge">
+</p>
 
-**By year**
+<details open>
+<summary><b>📈 Papers per month</b> — the field&rsquo;s growth since 2025-08</summary>
 
-| Year | 2021 | 2023 | 2024 | 2025 | 2026 | Total |
-|:--|--:|--:|--:|--:|--:|--:|
-| Papers | 1 | 39 | 57 | 216 | 911 | **1,224** |
+| Month | Papers | |
+|:--|--:|:--|
+| `2025-08` | **6** | █ |
+| `2025-09` | **7** | █ |
+| `2025-10` | **32** | ████ |
+| `2025-11` | **33** | █████ |
+| `2025-12` | **96** | █████████████ |
+| `2026-01` | **149** | █████████████████████ |
+| `2026-02` | **118** | ████████████████ |
+| `2026-03` | **126** | █████████████████ |
+| `2026-04` | **111** | ███████████████ |
+| `2026-05` | **153** | █████████████████████ |
+| `2026-06` | **159** | ██████████████████████ |
+| `2026-07`<sup>*</sup> | **95** | █████████████ |
 
-**By month (recent 12 months)**
+<sub><sup>*</sup> 2026-07 is a partial month (through 2026-07-21).</sub>
 
-| Month | 2025-08 | 2025-09 | 2025-10 | 2025-11 | 2025-12 | 2026-01 | 2026-02 | 2026-03 | 2026-04 | 2026-05 | 2026-06 | 2026-07 |
-|:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Papers | 6 | 7 | 32 | 33 | 96 | 149 | 118 | 126 | 111 | 153 | 159 | 95 |
+</details>
 
-**By taxonomy**
+<details open>
+<summary><b>📅 Papers per year</b></summary>
 
-| Dimension | Category | Papers | Share |
-|:--|:--|--:|--:|
-| **Substrate** | ![external](https://img.shields.io/badge/external-3b82f6?style=flat) | 1,108 | 92% |
-| | ![internal](https://img.shields.io/badge/internal-f97316?style=flat) | 108 | 9% |
-| **Subject** | ![agent](https://img.shields.io/badge/agent-10b981?style=flat) | 814 | 68% |
-| | ![user](https://img.shields.io/badge/user-a855f7?style=flat) | 391 | 32% |
-| **Cognitive Mechanism** | ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat) | 859 | 71% |
-| | ![semantic](https://img.shields.io/badge/semantic-f59e0b?style=flat) | 797 | 66% |
-| | ![working](https://img.shields.io/badge/working-6366f1?style=flat) | 372 | 31% |
-| | ![procedural](https://img.shields.io/badge/procedural-84cc16?style=flat) | 338 | 28% |
-| | ![sensory](https://img.shields.io/badge/sensory-06b6d4?style=flat) | 133 | 11% |
+| Year | Papers | |
+|:--|--:|:--|
+| `2021` | **1** | █ |
+| `2023` | **39** | █ |
+| `2024` | **57** | █ |
+| `2025` | **216** | █████ |
+| `2026`<sup>*</sup> | **911** | ██████████████████████ |
 
-> Shares are computed over the **1,205 papers carrying taxonomy tags**; the remaining 19 entries are benchmarks, datasets, and surveys, which are listed but left untagged because they do not themselves propose a memory mechanism.
->
-> Subject is single-label (shares sum to 100%). Cognitive Mechanism is multi-label — a paper may exercise several mechanisms, so its shares sum to well above 100% (2.07 mechanisms per tagged paper on average). Substrate is usually single-label, but **11 hybrid papers carry both tags** (e.g. MemGPT, Memory³, MemoRAG, Memento), which is why its two shares sum slightly above 100%.
+<sub><sup>*</sup> 2026 is partial (through July).</sub>
+
+</details>
+
+<details open>
+<summary><b>🗂️ Papers per taxonomy</b> — shares over the 1,205 tagged papers</summary>
+
+| Dimension | Tag | Papers | Share | |
+|:--|:--|--:|--:|:--|
+| **Substrate** | ![external](https://img.shields.io/badge/external-3b82f6?style=flat) | **1,108** | 92% | █████████████████ |
+|  | ![internal](https://img.shields.io/badge/internal-f97316?style=flat) | **108** | 9% | ██ |
+| **Subject** | ![agent](https://img.shields.io/badge/agent-10b981?style=flat) | **814** | 68% | ████████████ |
+|  | ![user](https://img.shields.io/badge/user-a855f7?style=flat) | **391** | 32% | ██████ |
+| **Mechanism** | ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat) | **859** | 71% | █████████████ |
+|  | ![semantic](https://img.shields.io/badge/semantic-f59e0b?style=flat) | **797** | 66% | ████████████ |
+|  | ![working](https://img.shields.io/badge/working-6366f1?style=flat) | **372** | 31% | ██████ |
+|  | ![procedural](https://img.shields.io/badge/procedural-84cc16?style=flat) | **338** | 28% | █████ |
+|  | ![sensory](https://img.shields.io/badge/sensory-06b6d4?style=flat) | **133** | 11% | ██ |
+
+</details>
+
+> **Reading the shares.** *Subject* is single-label, so its two shares sum to 100%. *Mechanism* is multi-label — a paper may exercise several, averaging **2.07** per paper, so its shares sum well above 100%. *Substrate* is normally single-label, but **11 hybrid papers** (MemGPT, Memory³, MemoRAG, Memento, …) carry both tags. The **19 untagged entries** are benchmarks, datasets and surveys, which are listed but propose no memory mechanism of their own.
 
 - **2026-07-21** [arxiv 2026] [Supra Cognitive Modes: A Routed Architecture for Agent Memory](https://arxiv.org/abs/2607.19096) <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="external" src="https://img.shields.io/badge/external-3b82f6?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="user" src="https://img.shields.io/badge/user-a855f7?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="episodic" src="https://img.shields.io/badge/episodic-ef4444?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="semantic" src="https://img.shields.io/badge/semantic-f59e0b?style=flat" height="18" style="vertical-align:middle;"></span>
 
