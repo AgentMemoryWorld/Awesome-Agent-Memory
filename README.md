@@ -234,6 +234,8 @@ The list is split by year so each file stays fast to load and search.
 
 If you find this survey or the paper list useful in your research, please consider citing:
 
+**TMLR (published version)**
+
 ```bibtex
 @article{huang2026rethinking,
   title   = {Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey},
@@ -258,8 +260,7 @@ If you find this survey or the paper list useful in your research, please consid
 }
 ```
 
-<details>
-<summary>arXiv preprint version</summary>
+**arXiv (preprint version)**
 
 ```bibtex
 @article{huang2026rethinkingarxiv,
@@ -285,7 +286,5 @@ If you find this survey or the paper list useful in your research, please consid
   url           = {https://arxiv.org/abs/2602.06052}
 }
 ```
-
-</details>
 
 You are also welcome to ⭐ star this repository and share it with others who work on foundation agent memory.
