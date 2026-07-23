@@ -19,6 +19,7 @@
 
 ## 🗞️ News
 
+- 🏆 **2026-07-23** — Our survey has been **accepted to [TMLR](https://jmlr.org/tmlr/)**, and received a **Survey Certification**! Huge thanks to everyone who contributed and gave feedback.
 - 📚 **2026-07-22** — Paper list expanded with **972 new papers** covering 2025-12-01 to 2026-07-21, each tagged along the survey taxonomy (substrate / subject / cognitive mechanism). The list now holds **1,224 papers**.
 - 🎉 **2026-02-09** — Our paper is now available on arXiv! Check it out: [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052).
 - 🚀 **2026-01-14** — Repository initialized with paper list, taxonomy figures, and full contents.
