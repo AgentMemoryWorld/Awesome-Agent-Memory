@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![TMLR](https://img.shields.io/badge/TMLR-Accepted-d90429?style=flat&logo=openreview&logoColor=white)](https://jmlr.org/tmlr/)
-[![Survey Certification](https://img.shields.io/badge/🏆%20Survey%20Certification-d90429?style=flat)](https://jmlr.org/tmlr/)
+[![Survey Certification Award](https://img.shields.io/badge/🏆%20Survey%20Certification%20Award-d90429?style=flat)](https://jmlr.org/tmlr/)
 [![arXiv](https://img.shields.io/badge/arXiv-2602.06052-b31b1b.svg?style=flat&logo=arxiv)](https://arxiv.org/abs/2602.06052)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-FFD21E?style=flat)](https://huggingface.co/papers/2602.06052)
 [![Last Commit](https://img.shields.io/github/last-commit/AgentMemoryWorld/Awesome-Agent-Memory?style=flat&color=blue)](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://jmlr.org/tmlr/">
-    <img alt="Accepted to TMLR with Survey Certification" src="https://img.shields.io/badge/🏆%20Accepted%20to%20TMLR%20—%20Survey%20Certification-d90429?style=for-the-badge&labelColor=8b0000">
+    <img alt="Accepted to TMLR with Survey Certification Award" src="https://img.shields.io/badge/🏆%20Accepted%20to%20TMLR%20—%20Survey%20Certification%20Award-d90429?style=for-the-badge&labelColor=8b0000">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 🗞️ News
 
-- 🏆 **2026-07-23** — ![NEW](https://img.shields.io/badge/NEW-d90429?style=flat) Our survey has been **accepted to [TMLR](https://jmlr.org/tmlr/)**, and received a **Survey Certification**! Huge thanks to everyone who contributed and gave feedback.
+- 🏆 **2026-07-23** — ![NEW](https://img.shields.io/badge/NEW-d90429?style=flat) Our survey has been **accepted to [TMLR](https://jmlr.org/tmlr/)**, and received the **Survey Certification Award**! Huge thanks to everyone who contributed and gave feedback.
 - 📚 **2026-07-22** — Paper list expanded with **972 new papers** covering 2025-12-01 to 2026-07-21, each tagged along the survey taxonomy (substrate / subject / cognitive mechanism). The list now holds **1,224 papers**.
 - 🎉 **2026-02-09** — Our paper is now available on arXiv! Check it out: [Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052).
 - 🚀 **2026-01-14** — Repository initialized with paper list, taxonomy figures, and full contents.
