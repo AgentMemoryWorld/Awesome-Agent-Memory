@@ -2621,3 +2621,31 @@ Reasoning over Knowledge Graph](https://arxiv.org/abs/2402.11163) <span style="v
 ## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=AgentMemoryWorld/Awesome-Agent-Memory&type=Date)](https://star-history.com/#AgentMemoryWorld/Awesome-Agent-Memory&Date)
 
+## 📚 Citation
+
+If you find this survey or the paper list useful in your research, please consider citing:
+
+```bibtex
+@article{huang2026rethinking,
+  title   = {Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey},
+  author  = {Wei-Chieh Huang and Weizhi Zhang and Yueqing Liang and Yuanchen Bei and
+             Yankai Chen and Tao Feng and Xinyu Pan and Zhen Tan and Yu Wang and
+             Tianxin Wei and Shanglin Wu and Ruiyao Xu and Liangwei Yang and Rui Yang and
+             Wooseong Yang and Chin-Yuan Yeh and Hanrong Zhang and Haozhen Zhang and
+             Siqi Zhu and Henry Peng Zou and Wanjia Zhao and Song Wang and Wujiang Xu and
+             Zixuan Ke and Zheng Hui and Dawei Li and Yaozu Wu and Langzhou He and
+             Chen Wang and Xiongxiao Xu and Baixiang Huang and Juntao Tan and
+             Shelby Heinecke and Huan Wang and Caiming Xiong and Ahmed A. Metwally and
+             Jun Yan and Chen-Yu Lee and Hanqing Zeng and Yinglong Xia and Xiaokai Wei and
+             Ali Payani and Yu Wang and Haitong Ma and Wenya Wang and Chenguang Wang and
+             Yu Zhang and Xin Wang and Yongfeng Zhang and Jiaxuan You and Hanghang Tong and
+             Xiao Luo and Xue Liu and Yizhou Sun and Wei Wang and Julian McAuley and
+             James Zou and Jiawei Han and Philip S. Yu and Kai Shu},
+  journal = {Transactions on Machine Learning Research},
+  issn    = {2835-8856},
+  year    = {2026},
+  note    = {Survey Certification Award}
+}
+```
+
+You are also welcome to ⭐ star this repository and share it with others who work on foundation agent memory.
