@@ -78,6 +78,40 @@ Foundation agent memory is a key component for **long-horizon performance and pe
 ## 📑 Paper List
 We curate and organize representative papers on foundation agent memory using the taxonomy in the survey (Substrate, Cognitive Mechanism, and Subject). Below is a structured list to help you quickly navigate the design space.
 
+### 📊 Statistics
+
+**1,224 papers** curated, spanning **2021-07 → 2026-07**.
+
+**By year**
+
+| Year | 2021 | 2023 | 2024 | 2025 | 2026 | Total |
+|:--|--:|--:|--:|--:|--:|--:|
+| Papers | 1 | 39 | 57 | 216 | 911 | **1,224** |
+
+**By month (recent 12 months)**
+
+| Month | 2025-08 | 2025-09 | 2025-10 | 2025-11 | 2025-12 | 2026-01 | 2026-02 | 2026-03 | 2026-04 | 2026-05 | 2026-06 | 2026-07 |
+|:--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Papers | 6 | 7 | 32 | 33 | 96 | 149 | 118 | 126 | 111 | 153 | 159 | 95 |
+
+**By taxonomy**
+
+| Dimension | Category | Papers | Share |
+|:--|:--|--:|--:|
+| **Substrate** | ![external](https://img.shields.io/badge/external-3b82f6?style=flat) | 1,108 | 92% |
+| | ![internal](https://img.shields.io/badge/internal-f97316?style=flat) | 108 | 9% |
+| **Subject** | ![agent](https://img.shields.io/badge/agent-10b981?style=flat) | 814 | 68% |
+| | ![user](https://img.shields.io/badge/user-a855f7?style=flat) | 391 | 32% |
+| **Cognitive Mechanism** | ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat) | 859 | 71% |
+| | ![semantic](https://img.shields.io/badge/semantic-f59e0b?style=flat) | 797 | 66% |
+| | ![working](https://img.shields.io/badge/working-6366f1?style=flat) | 372 | 31% |
+| | ![procedural](https://img.shields.io/badge/procedural-84cc16?style=flat) | 338 | 28% |
+| | ![sensory](https://img.shields.io/badge/sensory-06b6d4?style=flat) | 133 | 11% |
+
+> Shares are computed over the **1,205 papers carrying taxonomy tags**; the remaining 19 entries are benchmarks, datasets, and surveys, which are listed but left untagged because they do not themselves propose a memory mechanism.
+>
+> Subject is single-label (shares sum to 100%). Cognitive Mechanism is multi-label — a paper may exercise several mechanisms, so its shares sum to well above 100% (2.07 mechanisms per tagged paper on average). Substrate is usually single-label, but **11 hybrid papers carry both tags** (e.g. MemGPT, Memory³, MemoRAG, Memento), which is why its two shares sum slightly above 100%.
+
 - **2026-07-21** [arxiv 2026] [Supra Cognitive Modes: A Routed Architecture for Agent Memory](https://arxiv.org/abs/2607.19096) <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="external" src="https://img.shields.io/badge/external-3b82f6?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="user" src="https://img.shields.io/badge/user-a855f7?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="episodic" src="https://img.shields.io/badge/episodic-ef4444?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="semantic" src="https://img.shields.io/badge/semantic-f59e0b?style=flat" height="18" style="vertical-align:middle;"></span>
 
 - **2026-07-21** [arxiv 2026] [Mi-Memory: A Lifecycle Memory Framework for Personal AI](https://arxiv.org/abs/2607.18975) <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="external" src="https://img.shields.io/badge/external-3b82f6?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="user" src="https://img.shields.io/badge/user-a855f7?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="sensory" src="https://img.shields.io/badge/sensory-06b6d4?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="episodic" src="https://img.shields.io/badge/episodic-ef4444?style=flat" height="18" style="vertical-align:middle;"></span> <span style="vertical-align:middle; display:inline-block; position:relative; top:-1px;"><img alt="semantic" src="https://img.shields.io/badge/semantic-f59e0b?style=flat" height="18" style="vertical-align:middle;"></span>
