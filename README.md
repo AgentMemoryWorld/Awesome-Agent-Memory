@@ -90,9 +90,9 @@ We curate and organize representative papers on foundation agent memory using th
 ### 📊 Statistics
 
 <p align="center">
-  <img alt="Total" src="https://img.shields.io/badge/Total-1%2C224_papers-1f6feb?style=for-the-badge&logo=bookstack&logoColor=white">
-  <img alt="Span" src="https://img.shields.io/badge/Span-2021.07_→_2026.07-6e7681?style=for-the-badge">
-  <img alt="Tagged" src="https://img.shields.io/badge/Tagged-1%2C205-2ea043?style=for-the-badge">
+  <img alt="Total" src="https://img.shields.io/badge/Total-1%2C225_papers-1f6feb?style=for-the-badge&logo=bookstack&logoColor=white">
+  <img alt="Span" src="https://img.shields.io/badge/Span-2021.07_→_2026.10-6e7681?style=for-the-badge">
+  <img alt="Tagged" src="https://img.shields.io/badge/Tagged-1%2C206-2ea043?style=for-the-badge">
 </p>
 
 <details open>
@@ -112,6 +112,7 @@ We curate and organize representative papers on foundation agent memory using th
 | `2026-05` | **153** | █████████████████████ |
 | `2026-06` | **159** | ██████████████████████ |
 | `2026-07`<sup>*</sup> | **95** | █████████████ |
+| `2026-10` | **1** | █ |
 
 <sub><sup>*</sup> 2026-07 is a partial month (through 2026-07-21).</sub>
 
@@ -126,22 +127,22 @@ We curate and organize representative papers on foundation agent memory using th
 | `2023` | **39** | █ |
 | `2024` | **57** | █ |
 | `2025` | **216** | █████ |
-| `2026`<sup>*</sup> | **911** | ██████████████████████ |
+| `2026`<sup>*</sup> | **912** | ██████████████████████ |
 
-<sub><sup>*</sup> 2026 is partial (through July).</sub>
+<sub><sup>*</sup> 2026 is partial (latest listed paper: 2026-10-01).</sub>
 
 </details>
 
 <details open>
-<summary><b>🗂️ Papers per taxonomy</b> — shares over the 1,205 tagged papers</summary>
+<summary><b>🗂️ Papers per taxonomy</b> — shares over the 1,206 tagged papers</summary>
 
 | Dimension | Tag | Papers | Share | |
 |:--|:--|--:|--:|:--|
-| **Substrate** | ![external](https://img.shields.io/badge/external-3b82f6?style=flat) | **1,108** | 92% | █████████████████ |
+| **Substrate** | ![external](https://img.shields.io/badge/external-3b82f6?style=flat) | **1,109** | 92% | █████████████████ |
 |  | ![internal](https://img.shields.io/badge/internal-f97316?style=flat) | **108** | 9% | ██ |
-| **Subject** | ![agent](https://img.shields.io/badge/agent-10b981?style=flat) | **814** | 68% | ████████████ |
+| **Subject** | ![agent](https://img.shields.io/badge/agent-10b981?style=flat) | **815** | 68% | ████████████ |
 |  | ![user](https://img.shields.io/badge/user-a855f7?style=flat) | **391** | 32% | ██████ |
-| **Mechanism** | ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat) | **859** | 71% | █████████████ |
+| **Mechanism** | ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat) | **860** | 71% | █████████████ |
 |  | ![semantic](https://img.shields.io/badge/semantic-f59e0b?style=flat) | **797** | 66% | ████████████ |
 |  | ![working](https://img.shields.io/badge/working-6366f1?style=flat) | **372** | 31% | ██████ |
 |  | ![procedural](https://img.shields.io/badge/procedural-84cc16?style=flat) | **338** | 28% | █████ |
@@ -157,13 +158,15 @@ The list is split by year so each file stays fast to load and search.
 
 | Year | Papers | List |
 |:--|--:|:--|
-| **2026** | 911 | [`papers/2026.md`](papers/2026.md) |
+| **2026** | 912 | [`papers/2026.md`](papers/2026.md) |
 | **2025** | 216 | [`papers/2025.md`](papers/2025.md) |
 | **2024** | 57 | [`papers/2024.md`](papers/2024.md) |
 | **2023 and earlier** | 40 | [`papers/2023-and-earlier.md`](papers/2023-and-earlier.md) |
-| | **1224** | |
+| | **1225** | |
 
 ### 🆕 Latest 30 papers
+
+- **2026-10-01** [arxiv 2026] [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) [![stars](https://img.shields.io/github/stars/MCG-NJU/OneStreamer?style=social)](https://github.com/MCG-NJU/OneStreamer) ![external](https://img.shields.io/badge/external-3b82f6?style=flat) ![agent](https://img.shields.io/badge/agent-10b981?style=flat) ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat)
 
 - **2026-07-21** [arxiv 2026] [Supra Cognitive Modes: A Routed Architecture for Agent Memory](https://arxiv.org/abs/2607.19096) ![external](https://img.shields.io/badge/external-3b82f6?style=flat) ![user](https://img.shields.io/badge/user-a855f7?style=flat) ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat) ![semantic](https://img.shields.io/badge/semantic-f59e0b?style=flat)
 
@@ -223,9 +226,7 @@ The list is split by year so each file stays fast to load and search.
 
 - **2026-07-15** [arxiv 2026] [A Self-Evolving Agent for Longitudinal Personal Health Management](https://arxiv.org/abs/2607.13940) ![external](https://img.shields.io/badge/external-3b82f6?style=flat) ![user](https://img.shields.io/badge/user-a855f7?style=flat) ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat) ![semantic](https://img.shields.io/badge/semantic-f59e0b?style=flat) ![procedural](https://img.shields.io/badge/procedural-84cc16?style=flat)
 
-- **2026-07-15** [arxiv 2026] [Experience Memory Graph: One-Shot Error Correction for Agents](https://arxiv.org/abs/2607.13884) ![external](https://img.shields.io/badge/external-3b82f6?style=flat) ![agent](https://img.shields.io/badge/agent-10b981?style=flat) ![episodic](https://img.shields.io/badge/episodic-ef4444?style=flat) ![semantic](https://img.shields.io/badge/semantic-f59e0b?style=flat) ![procedural](https://img.shields.io/badge/procedural-84cc16?style=flat)
-
-> Showing the 30 most recent of **1224** papers — see the per-year lists above for the rest.
+> Showing the 30 most recent of **1225** papers — see the per-year lists above for the rest.
 
 ## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=AgentMemoryWorld/Awesome-Agent-Memory&type=Date)](https://star-history.com/#AgentMemoryWorld/Awesome-Agent-Memory&Date)
